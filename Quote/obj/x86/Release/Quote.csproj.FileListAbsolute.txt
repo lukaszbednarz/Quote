@@ -1,0 +1,4 @@
+c:\users\lbednarz\documents\visual studio 2010\Projects\Quote\Quote\bin\Release\Quote.exe
+c:\users\lbednarz\documents\visual studio 2010\Projects\Quote\Quote\bin\Release\Quote.pdb
+c:\users\lbednarz\documents\visual studio 2010\Projects\Quote\Quote\obj\x86\Release\Quote.exe
+c:\users\lbednarz\documents\visual studio 2010\Projects\Quote\Quote\obj\x86\Release\Quote.pdb
